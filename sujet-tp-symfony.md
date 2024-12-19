@@ -4,6 +4,8 @@
 
 Créer un projet Symfony avec un thème donné et des features à implémenter pour valider le TP. Le but est de montrer que vous avez compris les bases de Symfony et que vous êtes capable de créer un projet complet avec des features de base.
 
+Pas besoin que le site soit une oeuvre d'art, par contre il faut que ce soit un minimum présentable et que ça fonctionne.
+
 ### Liste des TP possibles : 
 
 * 1 - **Blog** -> *Articles, Categories, Langues et Commentaires*
